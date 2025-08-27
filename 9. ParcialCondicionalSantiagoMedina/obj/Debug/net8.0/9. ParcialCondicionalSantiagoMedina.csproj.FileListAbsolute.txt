@@ -1,0 +1,15 @@
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\9. ParcialCondicionalSantiagoMedina\bin\Debug\net8.0\9. ParcialCondicionalSantiagoMedina.exe
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\9. ParcialCondicionalSantiagoMedina\bin\Debug\net8.0\9. ParcialCondicionalSantiagoMedina.deps.json
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\9. ParcialCondicionalSantiagoMedina\bin\Debug\net8.0\9. ParcialCondicionalSantiagoMedina.runtimeconfig.json
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\9. ParcialCondicionalSantiagoMedina\bin\Debug\net8.0\9. ParcialCondicionalSantiagoMedina.dll
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\9. ParcialCondicionalSantiagoMedina\bin\Debug\net8.0\9. ParcialCondicionalSantiagoMedina.pdb
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\9. ParcialCondicionalSantiagoMedina\obj\Debug\net8.0\9. ParcialCondicionalSantiagoMedina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\9. ParcialCondicionalSantiagoMedina\obj\Debug\net8.0\9. ParcialCondicionalSantiagoMedina.AssemblyInfoInputs.cache
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\9. ParcialCondicionalSantiagoMedina\obj\Debug\net8.0\9. ParcialCondicionalSantiagoMedina.AssemblyInfo.cs
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\9. ParcialCondicionalSantiagoMedina\obj\Debug\net8.0\9. ParcialCondicionalSantiagoMedina.csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\9. ParcialCondicionalSantiagoMedina\obj\Debug\net8.0\9. ParcialCondicionalSantiagoMedina.sourcelink.json
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\9. ParcialCondicionalSantiagoMedina\obj\Debug\net8.0\9. ParcialCondicionalSantiagoMedina.dll
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\9. ParcialCondicionalSantiagoMedina\obj\Debug\net8.0\refint\9. ParcialCondicionalSantiagoMedina.dll
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\9. ParcialCondicionalSantiagoMedina\obj\Debug\net8.0\9. ParcialCondicionalSantiagoMedina.pdb
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\9. ParcialCondicionalSantiagoMedina\obj\Debug\net8.0\9. ParcialCondicionalSantiagoMedina.genruntimeconfig.cache
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\9. ParcialCondicionalSantiagoMedina\obj\Debug\net8.0\ref\9. ParcialCondicionalSantiagoMedina.dll
