@@ -1,0 +1,5 @@
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\SantiagoMedinaFP\17.DoWhile\17.DoWhile\obj\Debug\net8.0\17.DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\SantiagoMedinaFP\17.DoWhile\17.DoWhile\obj\Debug\net8.0\17.DoWhile.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\SantiagoMedinaFP\17.DoWhile\17.DoWhile\obj\Debug\net8.0\17.DoWhile.AssemblyInfo.cs
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\SantiagoMedinaFP\17.DoWhile\17.DoWhile\obj\Debug\net8.0\17.DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\SantiagoMedinaFP\17.DoWhile\17.DoWhile\obj\Debug\net8.0\17.DoWhile.sourcelink.json
