@@ -21,7 +21,7 @@
             /*17. Algortimo que solicita un número y genere su correspondiente tabla de multiplicar desde el 1 hasta el 10.
              * Y así sucesivamente hasta que el usuario ya no desee continuar generamdo tablas de multiplicar.*/
 
-            int contdor = 1;
+            int contador = 1;
             int numero = 0;
             string respuesta = "";
 
@@ -45,3 +45,4 @@
         }    
     }
 }
+
