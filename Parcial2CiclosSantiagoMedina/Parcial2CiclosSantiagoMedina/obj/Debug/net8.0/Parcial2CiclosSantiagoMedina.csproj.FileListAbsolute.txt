@@ -1,0 +1,15 @@
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\Parcial2CiclosSantiagoMedina\Parcial2CiclosSantiagoMedina\obj\Debug\net8.0\Parcial2CiclosSantiagoMedina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\Parcial2CiclosSantiagoMedina\Parcial2CiclosSantiagoMedina\obj\Debug\net8.0\Parcial2CiclosSantiagoMedina.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\Parcial2CiclosSantiagoMedina\Parcial2CiclosSantiagoMedina\obj\Debug\net8.0\Parcial2CiclosSantiagoMedina.AssemblyInfo.cs
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\Parcial2CiclosSantiagoMedina\Parcial2CiclosSantiagoMedina\obj\Debug\net8.0\Parcial2CiclosSantiagoMedina.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\Parcial2CiclosSantiagoMedina\Parcial2CiclosSantiagoMedina\obj\Debug\net8.0\Parcial2CiclosSantiagoMedina.sourcelink.json
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\Parcial2CiclosSantiagoMedina\Parcial2CiclosSantiagoMedina\bin\Debug\net8.0\Parcial2CiclosSantiagoMedina.exe
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\Parcial2CiclosSantiagoMedina\Parcial2CiclosSantiagoMedina\bin\Debug\net8.0\Parcial2CiclosSantiagoMedina.deps.json
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\Parcial2CiclosSantiagoMedina\Parcial2CiclosSantiagoMedina\bin\Debug\net8.0\Parcial2CiclosSantiagoMedina.runtimeconfig.json
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\Parcial2CiclosSantiagoMedina\Parcial2CiclosSantiagoMedina\bin\Debug\net8.0\Parcial2CiclosSantiagoMedina.dll
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\Parcial2CiclosSantiagoMedina\Parcial2CiclosSantiagoMedina\bin\Debug\net8.0\Parcial2CiclosSantiagoMedina.pdb
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\Parcial2CiclosSantiagoMedina\Parcial2CiclosSantiagoMedina\obj\Debug\net8.0\Parcial2CiclosSantiagoMedina.dll
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\Parcial2CiclosSantiagoMedina\Parcial2CiclosSantiagoMedina\obj\Debug\net8.0\refint\Parcial2CiclosSantiagoMedina.dll
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\Parcial2CiclosSantiagoMedina\Parcial2CiclosSantiagoMedina\obj\Debug\net8.0\Parcial2CiclosSantiagoMedina.pdb
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\Parcial2CiclosSantiagoMedina\Parcial2CiclosSantiagoMedina\obj\Debug\net8.0\Parcial2CiclosSantiagoMedina.genruntimeconfig.cache
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\Parcial2CiclosSantiagoMedina\Parcial2CiclosSantiagoMedina\obj\Debug\net8.0\ref\Parcial2CiclosSantiagoMedina.dll
