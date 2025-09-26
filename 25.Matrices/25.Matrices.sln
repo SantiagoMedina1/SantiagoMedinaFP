@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25.Matrices", "25.Matrices\25.Matrices.csproj", "{CD63A6A9-FE9A-4943-98DA-FD4E9AA1C4C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD63A6A9-FE9A-4943-98DA-FD4E9AA1C4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD63A6A9-FE9A-4943-98DA-FD4E9AA1C4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD63A6A9-FE9A-4943-98DA-FD4E9AA1C4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD63A6A9-FE9A-4943-98DA-FD4E9AA1C4C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C340B230-0445-4698-A583-00C4DF19D628}
+	EndGlobalSection
+EndGlobal

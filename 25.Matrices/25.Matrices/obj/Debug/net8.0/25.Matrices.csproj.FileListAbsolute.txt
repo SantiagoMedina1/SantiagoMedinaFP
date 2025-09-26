@@ -1,0 +1,5 @@
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\25.Matrices\25.Matrices\obj\Debug\net8.0\25.Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\25.Matrices\25.Matrices\obj\Debug\net8.0\25.Matrices.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\25.Matrices\25.Matrices\obj\Debug\net8.0\25.Matrices.AssemblyInfo.cs
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\25.Matrices\25.Matrices\obj\Debug\net8.0\25.Matrices.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Desktop\Santiago Medina\SantiagoMedinaFP\25.Matrices\25.Matrices\obj\Debug\net8.0\25.Matrices.sourcelink.json
