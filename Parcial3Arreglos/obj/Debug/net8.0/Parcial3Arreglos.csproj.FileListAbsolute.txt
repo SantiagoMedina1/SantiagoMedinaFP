@@ -1,0 +1,15 @@
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\SantiagoMedinaFP\Parcial3Arreglos\obj\Debug\net8.0\Parcial3Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\SantiagoMedinaFP\Parcial3Arreglos\obj\Debug\net8.0\Parcial3Arreglos.AssemblyInfoInputs.cache
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\SantiagoMedinaFP\Parcial3Arreglos\obj\Debug\net8.0\Parcial3Arreglos.AssemblyInfo.cs
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\SantiagoMedinaFP\Parcial3Arreglos\obj\Debug\net8.0\Parcial3Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\SantiagoMedinaFP\Parcial3Arreglos\obj\Debug\net8.0\Parcial3Arreglos.sourcelink.json
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\SantiagoMedinaFP\Parcial3Arreglos\bin\Debug\net8.0\Parcial3Arreglos.exe
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\SantiagoMedinaFP\Parcial3Arreglos\bin\Debug\net8.0\Parcial3Arreglos.deps.json
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\SantiagoMedinaFP\Parcial3Arreglos\bin\Debug\net8.0\Parcial3Arreglos.runtimeconfig.json
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\SantiagoMedinaFP\Parcial3Arreglos\bin\Debug\net8.0\Parcial3Arreglos.dll
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\SantiagoMedinaFP\Parcial3Arreglos\bin\Debug\net8.0\Parcial3Arreglos.pdb
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\SantiagoMedinaFP\Parcial3Arreglos\obj\Debug\net8.0\Parcial3Arreglos.dll
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\SantiagoMedinaFP\Parcial3Arreglos\obj\Debug\net8.0\refint\Parcial3Arreglos.dll
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\SantiagoMedinaFP\Parcial3Arreglos\obj\Debug\net8.0\Parcial3Arreglos.pdb
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\SantiagoMedinaFP\Parcial3Arreglos\obj\Debug\net8.0\Parcial3Arreglos.genruntimeconfig.cache
+C:\Users\B09S112est\Desktop\SantiagoMedina\SantiagoMedinaFP\SantiagoMedinaFP\Parcial3Arreglos\obj\Debug\net8.0\ref\Parcial3Arreglos.dll
